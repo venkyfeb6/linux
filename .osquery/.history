@@ -1,0 +1,6 @@
+.tables
+select * from os_version;
+select * from users where uid >=1000;
+exit
+q
+quit
